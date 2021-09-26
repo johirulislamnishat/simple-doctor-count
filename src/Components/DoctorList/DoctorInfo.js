@@ -7,7 +7,7 @@ const DoctorInfo = (props) => {
     return (
         <div>
 
-            <div className="p-1">
+            <div className="mr-2">
                 <div className="max-w-sm rounded shadow-lg">
                     <img className='w-full h-64' src={image} alt="" />
                     <div className="px-2 py-4">
@@ -21,9 +21,15 @@ const DoctorInfo = (props) => {
 
                         <p className='text-black text-lg'>Salary: <span className='text-gray-700 text-base'>{salary} BDT</span> </p>
 
+                        <div className='flex justify-center gap-5 text-2xl mt-5 text-purple-600'>
+                            <p><i className="fab fa-facebook"></i> </p>
+                            <p><i className="fab fa-instagram-square"></i></p>
+                            <p><i className="fab fa-twitter-square"></i></p>
+                            <p><i className="fab fa-linkedin"></i></p>
+                        </div>
 
                         <div className='mt-5 flex justify-center'>
-                            <button onClick={() => props.appoinment(props.doctor)} className='p-2 bg-purple-800 text-white'>Get Appointment</button>
+                            <button onClick={() => props.appoinment(props.doctor)} className='py-2 px-5 rounded bg-purple-800 text-white'><i className="fas fa-bookmark mr-2"></i> Get Appointment</button>
                         </div>
 
                     </div>

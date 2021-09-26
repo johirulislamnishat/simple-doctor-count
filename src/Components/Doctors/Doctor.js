@@ -26,17 +26,15 @@ const Doctor = () => {
                 <Header></Header>
             </div>
 
-            <div className='container displayDoctor'>
+            <div className='container displayDoctor pt-5'>
                 {/* cart */}
-                <div className='doctors grid grid-cols-3 gap-3'>
+                <div className='doctors grid grid-cols-3 gap-3 gap-y-8'>
                     {
                         doctors.map(doctor => <DoctorInfo
                             key={doctor.id}
                             doctor={doctor}
                             appoinment={addAppoint}
                         ></DoctorInfo>)
-
-
                     }
                 </div>
 

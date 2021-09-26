@@ -1,6 +1,5 @@
 import './App.css';
 import Doctor from './Components/Doctors/Doctor';
-import Header from './Components/Header/Header';
 
 function App() {
   return (
