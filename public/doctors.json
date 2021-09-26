@@ -1,0 +1,191 @@
+[
+    {
+        "id": 101,
+        "name": "Dr. Mahbubul Islam",
+        "image": "./assets/mahbubul-islam.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Chest Diseases",
+        "salary": 58000
+    },
+    {
+        "id": 102,
+        "name": "Dr. SK. Ziarat Islam (ZIA)",
+        "image": "./assets/ziarat-islam.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Cardiology",
+        "salary": 70000
+    },
+    {
+        "id": 103,
+        "name": "Prof. Dr. Sharifun Nahar",
+        "image": "./assets/drsharifun.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, M.Phill(Biochemistry)",
+        "speciality": "Department of Biochemistry",
+        "salary": 74000
+    },
+    {
+        "id": 104,
+        "name": "Professor Dr. Jahangir Alam",
+        "image": "./assets/jahangir-alam.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, DCH, MCPS, FCPS",
+        "speciality": "Department of Paediatrics",
+        "salary": 70000
+    },
+    {
+        "id": 105,
+        "name": "Dr. M.A. Baqui",
+        "image": "./assets/baqui.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, D-Card(DU) FACC(America)",
+        "speciality": "Department of Cardiology",
+        "salary": 80000
+    },
+    {
+        "id": 106,
+        "name": "Dr. Mir Md. Mostafijur Rahman",
+        "image": "./assets/mostafizur.jpg",
+        "designation": "Medical Officer",
+        "degree": "M.B.B.S",
+        "speciality": "Department of Medicine",
+        "salary": 50000
+    },
+    {
+        "id": 107,
+        "name": "Professor Dr. N. A. Kamrul Ahsan",
+        "image": "./assets/profkahsan.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, MS,FACS",
+        "speciality": "Department of Cardiac Surgery",
+        "salary": 70000
+    },
+    {
+        "id": 108,
+        "name": "Prof . Dr. Golam Muin Uddin",
+        "image": "./assets/golam-uddin.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, FCPS,FRCP",
+        "speciality": "Department of Cardiology",
+        "salary": 78000
+    },
+    {
+        "id": 109,
+        "name": "Sheikh Mohammad Abu Zafar",
+        "image": "./assets/zafar.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Cardiology",
+        "salary": 90000
+    },
+    {
+        "id": 110,
+        "name": "Professor Mohammed Hanif",
+        "image": "./assets/prof-md-hanif.jpg",
+        "designation": "Professor",
+        "degree": "M.B.B.S, F.C.P.S, F.R.CP (Edin)",
+        "speciality": "Department of Paediatric Neurology",
+        "salary": 95000
+    },
+    {
+        "id": 111,
+        "name": "Dr. SK. Ziarat Islam (ZIA)",
+        "image": "./assets/ziarat-islam.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Cardiology",
+        "salary": 70000
+    },
+    {
+        "id": 112,
+        "name": "Prof. Dr. Sharifun Nahar",
+        "image": "./assets/drsharifun.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, M.Phill(Biochemistry)",
+        "speciality": "Department of Biochemistry",
+        "salary": 74000
+    },
+    {
+        "id": 113,
+        "name": "Professor Dr. Jahangir Alam",
+        "image": "./assets/jahangir-alam.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, DCH, MCPS, FCPS",
+        "speciality": "Department of Paediatrics",
+        "salary": 70000
+    },
+    {
+        "id": 114,
+        "name": "Dr. M.A. Baqui",
+        "image": "./assets/baqui.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, D-Card(DU) FACC(America)",
+        "speciality": "Department of Cardiology",
+        "salary": 80000
+    },
+    {
+        "id": 115,
+        "name": "Dr. Mahbubul Islam",
+        "image": "./assets/mahbubul-islam.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Chest Diseases",
+        "salary": 58000
+    },
+    {
+        "id": 116,
+        "name": "Dr. SK. Ziarat Islam (ZIA)",
+        "image": "./assets/ziarat-islam.jpg",
+        "designation": "Assistant Professor",
+        "degree": "M.B.B.S, DTCD(DU) MSC(JAPAN) FCCP",
+        "speciality": "Department of Cardiology",
+        "salary": 70000
+    },
+    {
+        "id": 117,
+        "name": "Prof. Dr. Sharifun Nahar",
+        "image": "./assets/drsharifun.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, M.Phill(Biochemistry)",
+        "speciality": "Department of Biochemistry",
+        "salary": 74000
+    },
+    {
+        "id": 118,
+        "name": "Professor Dr. Jahangir Alam",
+        "image": "./assets/jahangir-alam.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, DCH, MCPS, FCPS",
+        "speciality": "Department of Paediatrics",
+        "salary": 70000
+    },
+    {
+        "id": 119,
+        "name": "Dr. M.A. Baqui",
+        "image": "./assets/baqui.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, D-Card(DU) FACC(America)",
+        "speciality": "Department of Cardiology",
+        "salary": 80000
+    },
+    {
+        "id": 120,
+        "name": "Dr. Mir Md. Mostafijur Rahman",
+        "image": "./assets/mostafizur.jpg",
+        "designation": "Medical Officer",
+        "degree": "M.B.B.S",
+        "speciality": "Department of Medicine",
+        "salary": 50000
+    },
+    {
+        "id": 121,
+        "name": "Prof. Dr. Sharifun Nahar",
+        "image": "./assets/drsharifun.jpg",
+        "designation": "Professor",
+        "degree": "MBBS, M.Phill(Biochemistry)",
+        "speciality": "Department of Biochemistry",
+        "salary": 74000
+    }
+]

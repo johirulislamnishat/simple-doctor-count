@@ -1,0 +1,14 @@
+.container{
+    margin: 0 auto;
+    width: 1170px;
+    padding: 15 15;
+  }
+
+.displayDoctor{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.doctors{
+    border-right: 1px solid gray;
+}
