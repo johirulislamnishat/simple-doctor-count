@@ -1,10 +1,10 @@
-#Doctor Appointment SPA
+App Name: Doctor Appointment SPA
 
 #Doctor Info:
 
-#Doctor Name
-#Designation
-#Degree
-#Salary
+*Doctor Name
+*Designation
+*Degree
+*Salary
 
-#Live Site: 
+#Live Site: https://doctor-appointment-spa.netlify.app/
